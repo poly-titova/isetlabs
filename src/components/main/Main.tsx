@@ -10,7 +10,11 @@ export const Main = () => {
       <h1>Iset Labs</h1>
       <Cards />
       <About />
-      <Slider />
+      <div>
+        <h2>Разрабатываем продукты, за которые платят пользователи</h2>
+        <button>Все проекты</button>
+        <Slider />
+      </div>
       <Team />
       <Contacts />
     </>
